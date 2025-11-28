@@ -31,3 +31,4 @@ PC with LT Spice software
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2b197c07-5c8e-4f00-8d81-45cbf8c6ef5f" />
 
 ## RESULT:
+<img width="984" height="328" alt="Screenshot 2025-11-28 204551" src="https://github.com/user-attachments/assets/52c70846-2e50-4f1e-9429-b3b5dcb39b87" />
